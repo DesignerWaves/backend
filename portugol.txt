@@ -1,0 +1,50 @@
+m, n1 n2 n3;
+
+leia n1
+leia n2 
+leia n3
+
+m = (n1+n2+n3)/3
+
+Se: m >= 6
+
+Então: "Aprovado"
+
+Senão: "Reprovado"
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+m, n1, n2, n3;
+
+
+leia n1
+leia n2 
+leia n3
+
+m = (n1+n2+n3)/3
+
+Se: m >= 6 Então: "Aprovado"
+
+Se: m >= 4 Então: "Recuperação"
+
+Senão: "Reprovado"
+
+
+
+-----------------------------------------------------------------------------------Correção------------------------------------------------------------------------------------------
+
+
+Escreva("Digite a nota")
+Leia(n1)
+Escreva("Digite a nota2")
+Leia(n2)
+Escreva("Digite a nota3")
+Leia(n3)
+M=(n1+n2+n3)/3
+Se M>=6 Então
+	Escreva ("Aprovado")
+Senão
+	Se(m<6) E (m>=4) Então
+	Escreva("Recuperação")
+Senão
+	Escreva("Reprovado")
