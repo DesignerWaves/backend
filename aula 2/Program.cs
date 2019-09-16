@@ -7,19 +7,20 @@ namespace aula_2
         static void Main(string[] args)
         {
             //Declaramos as notas que 
-            double nota1, nota2, nota3, media;
+            float  nota1, nota2, nota3, media;
+            string resultado;
 
             // Capturamos a 1º nota
             Console.Write("Digite a sua primeira nota: ");
-            nota1 = double.Parse( Console.ReadLine());
+            nota1 = float.Parse( Console.ReadLine());
 
             // Capturamos a 2º nota
-            Console.Write("Digite a sua primeira nota: ");
-            nota2 = double.Parse( Console.ReadLine());
+            Console.Write("Digite a sua segunda nota: ");
+            nota2 = float.Parse( Console.ReadLine());
 
             // Capturamos a 3º nota
-            Console.Write("Digite a sua primeira nota: ");
-            nota3 = double.Parse( Console.ReadLine());
+            Console.Write("Digite a sua terceira nota: ");
+            nota3 = float.Parse( Console.ReadLine());
 
             //Tratamento dos dados  
             media = (nota1+nota2+nota3) / 3;
