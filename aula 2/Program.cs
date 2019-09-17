@@ -19,7 +19,7 @@ namespace aula_2
             nota2 = float.Parse( Console.ReadLine());
 
             // Capturamos a 3º nota
-            Console.Write("Digite a sua terceira nota: ");
+            Console.Writoe("Digite a sua terceira nota: ");
             nota3 = float.Parse( Console.ReadLine());
 
             //Tratamento dos dados  
@@ -27,12 +27,14 @@ namespace aula_2
 
             //Verificamos se a media do aluno é maior ou igual
             if( media >= 6 ){
-                Console.WriteLine($"A media do aluno foi {media}, logo o aluno está aprovado");
-
-            } else {
-                Console.WriteLine($"A media do aluno foi {media}, logo o aluno está reprovado");
+                resultado = "aprovado";
+            } else if( media < 6 && media >= 4 ){
+                resultado = "Recuperação";
+            }else{
+                resultado = "Reprovado";
             }
 
+            Console.WriteLine($"Média : {media} - Aluno {resultado} ");
         }
     }
 }
