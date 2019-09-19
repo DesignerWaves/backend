@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\bin\Debug\netcoreapp2.2\fixacao.deps.json
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\bin\Debug\netcoreapp2.2\fixacao.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\bin\Debug\netcoreapp2.2\fixacao.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\bin\Debug\netcoreapp2.2\fixacao.dll
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\bin\Debug\netcoreapp2.2\fixacao.pdb
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\obj\Debug\netcoreapp2.2\fixacao.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\obj\Debug\netcoreapp2.2\fixacao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\obj\Debug\netcoreapp2.2\fixacao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\obj\Debug\netcoreapp2.2\fixacao.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\obj\Debug\netcoreapp2.2\fixacao.dll
+C:\Users\fic\Desktop\SENAI\backend\aula3\fixacao\obj\Debug\netcoreapp2.2\fixacao.pdb
