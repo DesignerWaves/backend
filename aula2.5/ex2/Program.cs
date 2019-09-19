@@ -28,11 +28,11 @@ switch(numero){
             pedido = "Switch - Cheese Salada";
             break;
 
-             case "3":
+            case "3":
             pedido = "Switch - Cheese Burger";
             break;
 
-             case "4":
+            case "4":
             pedido = "Switch - Cheese Bacon";
             break;
 
