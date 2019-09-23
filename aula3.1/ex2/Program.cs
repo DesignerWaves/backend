@@ -6,7 +6,21 @@ namespace ex2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] nome = new string[10];
+            string[] cor = new string[10];
+            string[] tamanho = new string[10];
+            float[] preco = new float[10];
+
+            for(int i = 0 ; i < 12 ; i++){
+                Console.WriteLine("Insira o valor do produto: ");
+                nome[i] = (Console.ReadLine());
+                
+                Console.WriteLine("Insira o valor do produto: ");
+                nome[i] = (Console.ReadLine());
+                Console.WriteLine("Insira o valor do produto: ");
+                nome[i] = (Console.ReadLine());
+                
+            }
         }
     }
 }
