@@ -17,7 +17,34 @@ namespace ExHARD {
                 Console.WriteLine ("2 - Listar passagem");
                 Console.WriteLine ("0 - Sair");
 
-                switch ()
+                switch (sair) {
+                    case "1":
+                        for (int batata = 0; batata <= 4; batata++) {
+
+                            Connsole.WriteLine ("Nome do passageiro: ");
+                            nome[batata] = Console.ReadLine ();
+
+                            Console.WriteLine ("Digite a UF de origem: ");
+                            origem[batata] = Console.ReadLine ();
+
+                            Console.Write ("Digite a data de IDA: ");
+                            data_ida[batata] = DateTime.Parse (Console.ReadLine ());
+
+                            Console.WriteLine ("Digite a data de volta");
+                            data_volta[batata] = DateTime.Parse (Console.ReadLine ());
+
+                            Console.WriteLine ("Dados cadastrados com sucesso!!!");
+
+                        }
+                        break;
+
+                    case "2":
+                        if () {
+
+                        }
+
+                        break;
+                }
             }
 
         }
