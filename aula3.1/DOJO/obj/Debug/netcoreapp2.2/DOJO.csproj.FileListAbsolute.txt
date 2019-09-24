@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\obj\Debug\netcoreapp2.2\DOJO.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\obj\Debug\netcoreapp2.2\DOJO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\obj\Debug\netcoreapp2.2\DOJO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\obj\Debug\netcoreapp2.2\DOJO.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\bin\Debug\netcoreapp2.2\DOJO.deps.json
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\bin\Debug\netcoreapp2.2\DOJO.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\bin\Debug\netcoreapp2.2\DOJO.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\bin\Debug\netcoreapp2.2\DOJO.dll
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\bin\Debug\netcoreapp2.2\DOJO.pdb
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\obj\Debug\netcoreapp2.2\DOJO.dll
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\DOJO\obj\Debug\netcoreapp2.2\DOJO.pdb

@@ -16,12 +16,13 @@ namespace ExHARD {
                 Console.WriteLine ("1 - Cadastrar");
                 Console.WriteLine ("2 - Listar passagem");
                 Console.WriteLine ("0 - Sair");
+                sair = Console.ReadLine();
 
                 switch (sair) {
                     case "1":
                         for (int batata = 0; batata <= 4; batata++) {
 
-                            Connsole.WriteLine ("Nome do passageiro: ");
+                            Console.WriteLine ("Nome do passageiro: ");
                             nome[batata] = Console.ReadLine ();
 
                             Console.WriteLine ("Digite a UF de origem: ");
@@ -39,10 +40,35 @@ namespace ExHARD {
                         break;
 
                     case "2":
-                        if () {
+                        for (int i = 0; i <= 4; i++) {
+                            if (
 
+                                nome[i] != "" &&
+                                origem[i] != "" &&
+                                destino[i] != "" &&
+                                data_ida[i] != null &&
+                                data_volta[i] != null)
+                                 {
+                                Console.WriteLine ();
+                                Console.WriteLine ("Passagem nº" + i + 1);
+                                Console.WriteLine (nome[i]);
+                                Console.WriteLine (origem[i]);
+                                Console.WriteLine (destino[i]);
+                                Console.WriteLine (data_ida[i]);
+                                Console.WriteLine (data_volta[i]);
+                                Console.WriteLine ();
+                            }
                         }
 
+                        break;
+
+                    case "0":
+                        Console.WriteLine ("Obrigado por utilizar nosso sistema: ");
+
+                        break;
+
+                    default:
+                        Console.WriteLine ("Entrada invalida");
                         break;
                 }
             }

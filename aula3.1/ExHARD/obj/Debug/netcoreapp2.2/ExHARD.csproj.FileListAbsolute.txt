@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\obj\Debug\netcoreapp2.2\ExHARD.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\obj\Debug\netcoreapp2.2\ExHARD.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\obj\Debug\netcoreapp2.2\ExHARD.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\obj\Debug\netcoreapp2.2\ExHARD.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\bin\Debug\netcoreapp2.2\ExHARD.deps.json
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\bin\Debug\netcoreapp2.2\ExHARD.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\bin\Debug\netcoreapp2.2\ExHARD.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\bin\Debug\netcoreapp2.2\ExHARD.dll
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\bin\Debug\netcoreapp2.2\ExHARD.pdb
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\obj\Debug\netcoreapp2.2\ExHARD.dll
+C:\Users\fic\Desktop\SENAI\backend\aula3.1\ExHARD\obj\Debug\netcoreapp2.2\ExHARD.pdb
