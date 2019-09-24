@@ -2,8 +2,8 @@
 
 namespace ex1 {
     class Program {
-        static void Main (string[] args) { 
-            
+        static void Main (string[] args) {
+
             //chamamoms nossa primeria função 
             Console.WriteLine (BomDia ());
 
@@ -11,9 +11,12 @@ namespace ex1 {
             ImprimeDataHora ();
 
             //chamamos nossa função que calcula a meida
-            double[] numero = { 2 , 5 , 2 };
-            Console.WriteLine(CalculaMedia(numero));
+            double[] numero = { 2, 5, 2 };
+            Console.WriteLine (CalculaMedia (numero));
 
+            //Chamamos a função de soma
+
+            Console.WriteLine (SomaCalculo (numero));
 
         }
 
@@ -64,7 +67,7 @@ namespace ex1 {
             Console.WriteLine (DateTime.Now.ToShortDateString ());
             Console.WriteLine (DateTime.Now.Hour.ToString ());
         }
-        
+
         /// <summary>
         /// Função que calcula a media de um vetor
         /// </summary>
@@ -72,6 +75,8 @@ namespace ex1 {
         /// <returns>Media dos valores</returns>
         static double CalculaMedia (double[] valores) {
             double resultado = 0;
+
+            //Usando Lenght para contar a quantidade de dados que foram dados ao inves de o usuario colocar antes quantos numeros iria tirar a media
 
             for (int i = 0; i < valores.Length; i++) {
                 resultado += valores[i];
@@ -81,5 +86,18 @@ namespace ex1 {
 
             return resultado;
         }
+
+        static double SomaCalculo (double[] valores) {
+
+            double resultado = 0;
+
+            for (int i = 0; i < valores.Length; i++) {
+
+                resultado += valores[i];
+
+            }
+            return resultado;
+        }
+
     }
 }
