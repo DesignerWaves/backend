@@ -31,8 +31,8 @@ namespace ex2_cpf {
             }
 
             resto = calculo % 11;
-            calculo = 11 - resto;
 
+            calculo = 11 - resto;
             if (calculo > 9) {
                 digito_v1 = "0";
 

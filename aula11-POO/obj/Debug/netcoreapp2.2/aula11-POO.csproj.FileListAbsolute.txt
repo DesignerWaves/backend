@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\obj\Debug\netcoreapp2.2\aula11-POO.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\obj\Debug\netcoreapp2.2\aula11-POO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\obj\Debug\netcoreapp2.2\aula11-POO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\obj\Debug\netcoreapp2.2\aula11-POO.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\bin\Debug\netcoreapp2.2\aula11-POO.deps.json
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\bin\Debug\netcoreapp2.2\aula11-POO.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\bin\Debug\netcoreapp2.2\aula11-POO.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\bin\Debug\netcoreapp2.2\aula11-POO.dll
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\bin\Debug\netcoreapp2.2\aula11-POO.pdb
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\obj\Debug\netcoreapp2.2\aula11-POO.dll
+C:\Users\fic\Desktop\SENAI\backend\aula11-POO\obj\Debug\netcoreapp2.2\aula11-POO.pdb
