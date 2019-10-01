@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\bin\Debug\netcoreapp2.2\aula11-POOexercicios2.deps.json
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\bin\Debug\netcoreapp2.2\aula11-POOexercicios2.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\bin\Debug\netcoreapp2.2\aula11-POOexercicios2.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\bin\Debug\netcoreapp2.2\aula11-POOexercicios2.dll
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\bin\Debug\netcoreapp2.2\aula11-POOexercicios2.pdb
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\obj\Debug\netcoreapp2.2\aula11-POOexercicios2.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\obj\Debug\netcoreapp2.2\aula11-POOexercicios2.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\obj\Debug\netcoreapp2.2\aula11-POOexercicios2.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\obj\Debug\netcoreapp2.2\aula11-POOexercicios2.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\obj\Debug\netcoreapp2.2\aula11-POOexercicios2.dll
+C:\Users\fic\Desktop\SENAI\backend\aula11-POOexercicios2\obj\Debug\netcoreapp2.2\aula11-POOexercicios2.pdb
